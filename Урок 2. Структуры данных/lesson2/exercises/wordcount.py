@@ -93,6 +93,6 @@ def main():
 
 
 if __name__ == '__main__':
-    print_words('text.txt')
-    print_top('text.txt')
+    # print_words('text.txt')
+    # print_top('text.txt')
     main()
